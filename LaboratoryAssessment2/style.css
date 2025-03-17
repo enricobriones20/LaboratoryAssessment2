@@ -79,7 +79,6 @@ header {
         margin-top: 10px;
     }
 
-    /* Stack project items vertically on smaller screens */
     .activities-grid {
         flex-direction: column;
     }
